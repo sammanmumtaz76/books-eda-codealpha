@@ -7,7 +7,7 @@ books.toscrape.com (Task 1). This analysis focuses purely on statistical
 methods — distribution analysis, outlier detection, hypothesis testing, 
 and multivariate comparisons — without visualizations (reserved for Task 3).
 
- **Task 3 (Dashboard) repository:** https://github.com/sammanmumtaz76/books-eda-codealpha-task3
+ **Task 3 (Dashboard) repository:** https://github.com/sammanmumtaz76/books-eda-codealpha-task33
 
 ---
 
