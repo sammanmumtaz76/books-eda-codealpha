@@ -21,6 +21,7 @@ Books-EDA-Project/
 └── data/
 
 └── books_full.csv        # Raw dataset (1,000 books)
+── books_tableau.csv        # updated dataset (1,000 books)
 
 ---
 
