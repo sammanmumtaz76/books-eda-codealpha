@@ -1,17 +1,17 @@
-# 📚 Books Dataset — Exploratory Data Analysis
+#Books Dataset — Exploratory Data Analysis
 **CodeAlpha Data Analytics Internship | Task 2**
 
-## 📌 Overview
+## Overview
 A statistical Exploratory Data Analysis (EDA) on 1,000 books scraped from 
 books.toscrape.com (Task 1). This analysis focuses purely on statistical 
 methods — distribution analysis, outlier detection, hypothesis testing, 
 and multivariate comparisons — without visualizations (reserved for Task 3).
 
-🔗 **Task 3 (Dashboard) repository:** https://github.com/sammanmumtaz76/books-eda-codealpha-task3
+ **Task 3 (Dashboard) repository:** https://github.com/sammanmumtaz76/books-eda-codealpha-task3
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 Books-EDA-Project/
 
 ├── notebooks/
@@ -25,7 +25,7 @@ Books-EDA-Project/
 
 ---
 
-## 🔍 What This Notebook Covers
+##  What This Notebook Covers
 
 | Section | Description |
 |---------|-------------|
@@ -39,7 +39,7 @@ Books-EDA-Project/
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 1. **Price is nearly perfectly symmetrical** — Mean (£35.07) ≈ Median (£35.98), skewness = −0.04
 2. **Price and rating are statistically independent** — ANOVA: F = 0.37, p = 0.833, η² = 0.0015
@@ -51,15 +51,15 @@ Books-EDA-Project/
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - This is a practice/synthetic dataset — price ranges and stock status appear artificially generated
 - Ratings may be randomly assigned rather than genuine customer reviews
 - No author, publication year, or review count columns — limits deeper analysis
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 Python · pandas · numpy · scipy (ANOVA)
 
-## 👤 Author
+## Author
 Samman — BSCS, University of Sargodha# books-eda-codealpha
